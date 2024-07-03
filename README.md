@@ -8,4 +8,5 @@ Data Masking: Apply data masking & encoding techniques to sensitive information 
 Data Loading: Load transformed data into Google BigQuery tables.
 Orchestration: Automate complete Data pipeline using Airflow ( Cloud Composer )
 
+Architecture:
 ![image](https://github.com/1jdow/Employee-Data-Pipeline/assets/82601410/acc02bb1-e24b-4af7-84a8-fabc896ffb62)
